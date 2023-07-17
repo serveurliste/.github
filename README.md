@@ -21,6 +21,7 @@ If you have any questions, technical issues, or suggestions, don't hesitate to j
 
 
 
+
 # ServeurListe 🇫🇷
 
 ServeurListe est une plateforme en ligne qui permet aux joueurs de voter pour leurs serveurs de jeu préférés et de découvrir de nouveaux serveurs passionnants. Notre objectif est de fournir une visibilité accrue aux créateurs de serveurs et de faciliter la recherche de serveurs de jeu de qualité pour les joueurs.
