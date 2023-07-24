@@ -43,3 +43,8 @@ Nous accueillons les contributions de la communauté pour améliorer et faire é
 Si vous avez des questions, des problèmes techniques ou des suggestions, n'hésitez pas à nous rejoindre sur Discord. Nous sommes là pour vous aider et travailler ensemble pour rendre ServeurListe encore meilleur.
 
 
+
+[https://](https://www.serveurliste.com/)https://www.serveurliste.com/
+
+
+
