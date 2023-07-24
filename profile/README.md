@@ -44,7 +44,7 @@ Si vous avez des questions, des problèmes techniques ou des suggestions, n'hés
 
 
 
-[https://](https://www.serveurliste.com/)https://www.serveurliste.com/
+https://www.serveurliste.com/
 
 
 
